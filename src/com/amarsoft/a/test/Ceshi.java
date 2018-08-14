@@ -9,8 +9,8 @@ public class Ceshi {
 
 	public static final String url = "jdbc:mysql://571ed2b83d47b.gz.cdb.myqcloud.com:13440/scfent_gf?useUnicode=true&amp;characterEncoding=GBK&amp;rewriteBatchedStatements=true&amp;useOldAliasMetadataBehavior=true";  
     public static final String name = "com.mysql.jdbc.Driver";  
-    public static final String user = "als7422";  
-    public static final String password = "als7422";  
+    public static final String user = "als742";  
+    public static final String password = "als742";  
   
     public Connection conn = null;  
     public PreparedStatement pst = null;  
